@@ -1,2 +1,2 @@
 # hello-world
-my first experience in git hub 
+my first experience at git hub 
